@@ -4,6 +4,14 @@
 
 This C++ program allows users to manage and persist student records. The program runs in a terminal window and supports commands for adding, finding, removing student records, and stopping the application.
 
+## Student Record Structure
+
+A student record consists of the following fields:
+
+- **student_ID:** Unsigned integer representing the student's ID.
+- **name:** String containing the student's name.
+- **age:** Unsigned short representing the student's age.
+  
 ## Commands
 
 - `ADD student_ID name age`: Adds a student record with the specified ID, name, and age.
