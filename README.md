@@ -2,6 +2,8 @@
 
 ## Overview
 
+By: Ali Faiyaz
+
 This C++ program allows users to manage and persist student records. The program runs in a terminal window and supports commands for adding, finding, removing student records, and stopping the application.
 
 ## Student Record Structure
